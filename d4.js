@@ -79,7 +79,7 @@ console.log(name1)
 console.log(name2)
 console.log(name1 === name2)
 parseInt(name2)
-console.log(parseInt(name2)=== name1)
+console.log(parseInt(name2) === name1)
 
 
 
